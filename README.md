@@ -5,6 +5,8 @@
 ## RevRoll
 
   RevRoll DB.pdf - Data base description and ERD scheme.
+
+  RevRoll_I.sql - SQL script with questions included.
   
   RevRoll_II.sql - SQL script with questions included.
 
