@@ -1,6 +1,4 @@
-# SQL-Projects
-
-   Different SQL projects
+# Master School SQL challenges
 
 ## RevRoll
 
